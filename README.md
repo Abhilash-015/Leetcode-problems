@@ -30,6 +30,7 @@ only leetcode problems
 | ------- |
 | [0146-lru-cache](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -38,8 +39,10 @@ only leetcode problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
