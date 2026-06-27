@@ -23,6 +23,7 @@ only leetcode problems
 | ------- |
 | [0146-lru-cache](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +53,12 @@ only leetcode problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
