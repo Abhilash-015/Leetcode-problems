@@ -14,6 +14,7 @@ only leetcode problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ only leetcode problems
 | ------- |
 | [0146-lru-cache](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Linked List
 |  |
@@ -70,4 +72,8 @@ only leetcode problems
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
