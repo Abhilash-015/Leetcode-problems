@@ -22,6 +22,7 @@ only leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -58,6 +59,7 @@ only leetcode problems
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
