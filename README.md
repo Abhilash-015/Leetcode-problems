@@ -69,6 +69,7 @@ only leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
