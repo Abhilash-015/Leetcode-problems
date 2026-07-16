@@ -1,12 +1,9 @@
 class Solution {
 public:
     bool judgeSquareSum(int c) {
-        set<double> s;
-        for(int i=0;i*i<=c;i++){
-            s.insert(i*i);
-        }
-        for(int i=0;i*i<=c;i++){
-            if(s.find(c-i*i)!=s.end()){return true;}
+        for(long long i=0;i*i<=c;i++){
+            long long x=sqrt(c-i*i);
+            if(x*x==c-i*i){return true;}
         }
         return false;
     }
