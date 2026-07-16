@@ -10,17 +10,6 @@
  */
 class Solution {
 public:
-    void rev(ListNode* & r){
-        ListNode* prev=NULL,*curr=r,*nxt=curr->next;
-        while(curr!=NULL){
-            curr->next=prev;
-            prev=curr;
-            curr=nxt;
-            if(nxt==NULL){break;}
-            nxt=nxt->next;
-        }
-        r=prev;
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
        ListNode* tp1=l1,*tp2=l2;
        int carry=0;
