@@ -9,6 +9,7 @@ only leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -90,11 +91,13 @@ only leetcode problems
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
