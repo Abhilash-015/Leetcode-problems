@@ -9,7 +9,8 @@ public:
                 cnt++;i++;
             }
             i--;
-            ans=ans+ to_string(cnt)+piv;
+            ans += to_string(cnt);
+            ans += piv;
         }
         return ans;
     }
