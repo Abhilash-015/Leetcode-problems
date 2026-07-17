@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string cnt(string s){
+    string cnt( string &s){
         string ans="";
         for(int i=0;i<s.length();i++){
             int cnt=0;
@@ -12,13 +12,14 @@ public:
             ans += to_string(cnt);
             ans += piv;
         }
+        s=ans;
         return ans;
     }
     string countAndSay(int n) {
         if(n==1){return "1";}
         string ans="1";
         for(int i=2;i<=n;i++){
-            ans=cnt(ans);
+            cnt(ans);
         }
         return ans;
     }
