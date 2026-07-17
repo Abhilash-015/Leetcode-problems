@@ -15,6 +15,7 @@ only leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
