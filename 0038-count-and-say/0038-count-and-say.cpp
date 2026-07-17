@@ -1,26 +1,30 @@
 class Solution {
 public:
-    string cnt( string &s){
-        string ans="";
-        for(int i=0;i<s.length();i++){
-            int cnt=0;
-            char piv=s[i];
-            while(piv==s[i]){
-                cnt++;i++;
-            }
-            i--;
-            ans += to_string(cnt);
-            ans += piv;
+    string nextString(const string &s) {
+    string ans;
+    ans.reserve(s.size() * 2);
+
+    int i = 0;
+    while (i < s.size()) {
+        char ch = s[i];
+        int cnt = 0;
+
+        while (i < s.size() && s[i] == ch) {
+            cnt++;
+            i++;
         }
-        s=ans;
-        return ans;
+
+        ans += to_string(cnt);
+        ans += ch;
     }
-    string countAndSay(int n) {
-        if(n==1){return "1";}
-        string ans="1";
-        for(int i=2;i<=n;i++){
-            cnt(ans);
-        }
-        return ans;
-    }
+
+    return ans;
+}
+
+string countAndSay(int n) {
+    string ans = "1";
+    while (--n)
+        ans = nextString(ans);
+    return ans;
+}
 };
