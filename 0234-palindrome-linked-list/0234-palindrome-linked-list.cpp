@@ -12,33 +12,39 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         ListNode* tp=head;
-        ListNode* copy=new ListNode(head->val);
-        ListNode* copyh=copy;
-        tp=tp->next;
+        stack<int> st;
+        int n=0;
         while(tp!=NULL){
-            ListNode* newnode=new ListNode(tp->val);
-            copy->next=newnode;
-            copy=newnode;
+            n++;
             tp=tp->next;
         }
-        copy->next=NULL;
-        //reverse
-        ListNode* pr=NULL,*curr=copyh,*N=copyh->next;
-        while(curr!=NULL){
-            curr->next=pr;
-            pr=curr;
-            curr=N;
-            if(N==NULL){break;}
-             N=N->next;
+        tp=head;
+        if(n%2==0){
+            int cnt=0;
+            while(cnt!=n/2){
+                st.push(tp->val);
+                cnt++;
+                tp=tp->next;
+            }
+            while(tp!=NULL){
+                if(tp->val!=st.top()){return false;}
+                st.pop();
+                tp=tp->next;
+            }
         }
-        copyh=pr;
-        //check
-        ListNode * tp1=head,*tp2=copyh;
-        while(tp1!=NULL&&tp2!=NULL){
-            if(tp1->val==tp2->val){}
-            else{return false;}
-            tp1=tp1->next;
-            tp2=tp2->next;
+        else{
+            int cnt=0;
+            while(cnt!=n/2){
+                st.push(tp->val);
+                cnt++;
+                tp=tp->next;
+            }
+            tp=tp->next;
+            while(tp!=NULL){
+                if(tp->val!=st.top()){return false;}
+                st.pop();
+                tp=tp->next;
+            }
         }
         return true;
     }
