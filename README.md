@@ -66,6 +66,7 @@ only leetcode problems
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0041-first-missing-positive) |
+| [1260-shift-2d-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@ only leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -125,4 +127,8 @@ only leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0002-add-two-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
