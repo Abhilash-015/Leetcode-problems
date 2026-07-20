@@ -25,10 +25,12 @@ public:
             }
         }
     }
-    vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
-        while(k--){
-            move(grid);
+    vector<vector<int>> shiftGrid(vector<vector<int>>& a, int k) {
+        int m=a.size();int n=a[0].size();
+        int z=k%(m*n);
+        while(z--){
+            move(a);
         }
-        return grid;
+        return a;
     }
 };
