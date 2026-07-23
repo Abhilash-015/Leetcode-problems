@@ -71,6 +71,7 @@ only leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -98,6 +99,7 @@ only leetcode problems
 | [0002-add-two-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -131,4 +133,8 @@ only leetcode problems
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
