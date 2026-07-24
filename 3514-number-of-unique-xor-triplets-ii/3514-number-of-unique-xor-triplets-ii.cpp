@@ -7,7 +7,8 @@ public:
         int ans=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                s.insert(a[i]^a[j]);
+                if(s.find(a[i]^a[j])==s.end()){
+                s.insert(a[i]^a[j]);}
             }
         }
         for(auto it=s.begin();it!=s.end();it++){
