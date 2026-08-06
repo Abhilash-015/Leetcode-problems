@@ -83,6 +83,7 @@ only leetcode problems
 | ------- |
 | [1291-sequential-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
@@ -107,6 +108,7 @@ only leetcode problems
 | [0002-add-two-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
