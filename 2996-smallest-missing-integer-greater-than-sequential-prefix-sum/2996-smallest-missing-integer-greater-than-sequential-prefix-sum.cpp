@@ -5,18 +5,19 @@ public:
         if(n==1){return a[0]+1;}
         int sum=a[0];      
         set<int> s;
-        s.insert(a[0]);
-        for(int i=1;i<n;i++){
-            s.insert(a[i]);
-        }
         for(int i=1;i<n;i++){
             if((a[i-1]+1)==a[i]){
                 sum+=a[i];
             }
             else{break;}
         }
-        while(s.find(sum)!=s.end()){
-            sum++;
+        sort(a.begin(),a.end());
+        for(int i=0;i<n;i++){
+            if(a[i]<sum){}
+           else if(a[i]==sum){
+                sum++;
+            }
+            else{return sum;}
         }
         return sum;
     }
