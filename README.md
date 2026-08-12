@@ -30,6 +30,7 @@ only leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -73,6 +74,7 @@ only leetcode problems
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -105,6 +107,7 @@ only leetcode problems
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
