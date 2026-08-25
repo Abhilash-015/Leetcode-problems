@@ -36,6 +36,7 @@ only leetcode problems
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -85,6 +86,7 @@ only leetcode problems
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
