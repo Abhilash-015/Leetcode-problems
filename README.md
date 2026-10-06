@@ -17,6 +17,7 @@ only leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ only leetcode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
@@ -99,6 +101,7 @@ only leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
@@ -170,4 +173,8 @@ only leetcode problems
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
