@@ -91,6 +91,7 @@ only leetcode problems
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -98,6 +99,7 @@ only leetcode problems
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +116,7 @@ only leetcode problems
 | [3536-maximum-product-of-two-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +139,7 @@ only leetcode problems
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Union-Find
 |  |
 | ------- |
