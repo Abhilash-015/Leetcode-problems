@@ -18,6 +18,7 @@ only leetcode problems
 | [0038-count-and-say](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ only leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -181,4 +183,5 @@ only leetcode problems
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
