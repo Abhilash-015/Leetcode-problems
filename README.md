@@ -91,6 +91,7 @@ only leetcode problems
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -108,6 +109,7 @@ only leetcode problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ only leetcode problems
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
