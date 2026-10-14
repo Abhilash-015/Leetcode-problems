@@ -109,6 +109,7 @@ only leetcode problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@ only leetcode problems
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
