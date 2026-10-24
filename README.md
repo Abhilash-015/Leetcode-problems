@@ -20,6 +20,7 @@ only leetcode problems
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2409-count-days-spent-together](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +137,7 @@ only leetcode problems
 | [0002-add-two-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Abhilash-015/Leetcode-problems/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
