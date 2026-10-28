@@ -25,6 +25,7 @@ only leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhilash-015/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ only leetcode problems
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Enumeration
 |  |
@@ -178,12 +180,14 @@ only leetcode problems
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Abhilash-015/Leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Abhilash-015/Leetcode-problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
